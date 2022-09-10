@@ -1,0 +1,12 @@
+# OS stuff
+.DS_Store
+
+#Build directory
+target/*
+
+#VS code settings
+.vscode/*
+
+#Generated files
+*.cpp
+*.bin
