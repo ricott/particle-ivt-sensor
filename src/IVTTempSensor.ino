@@ -67,7 +67,6 @@ void loop()
         }
         else
         {
-            Serial.println("readBuf overflow, emptying buffer");
             readBufOffset = 0;
         }
     }
